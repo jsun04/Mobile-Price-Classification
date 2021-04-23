@@ -1,9 +1,8 @@
 # Mobile-Price-Classification Paper
 # 1. Introduction
-For this project, our group is interested in the “Mobile Price Classification”. A new mobile company is starting it’s business, and this store wants to give tough fights to big companies like Apple, Samsung etc.
-The company founder Bob does not know how to estimate the price of mobiles that his company creates. In this competitive mobile phone market you cannot simply assume market prices for phones. To solve this problem Bob collects sales data of mobile phones from various companies.
-Bob wants to find out some relations between mobile phones’ features (eg:- RAM,Internal Memory etc) and selling prices. 
+For this project, our group is interested in the “Mobile Price Classification”. A new mobile company is starting it’s business, and this store wants to give tough fights to big companies like Apple, Samsung etc. The company founder Bob does not know how to estimate the price of mobiles that his company creates. In this competitive mobile phone market you cannot simply assume market prices for phones. To solve this problem Bob collects sales data of mobile phones from various companies.Bob wants to find out some relations between mobile phones’ features (eg:- RAM,Internal Memory etc) and selling prices. 
 About this data set, there are 21 columns with 1000 of observations, the following are the descriptions for each variable: 
+
 ID: The Ids.
 Battery_power: Total energy a battery can store in one time measured in mAh
 Blue: Has bluetooth or not
