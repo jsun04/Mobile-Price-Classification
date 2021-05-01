@@ -50,13 +50,21 @@ And our team wants to foucs on exploring these following questions:
 * 2.Is there any effect on Wifi by the factor of Bluetooth?
 * 3.Is there any relationship between Battery power and the number of cores?
 * 4.What factors affect the selling price most?
-* 5.Logistic regression?
 
 To get a better understanding of those SMART questions above, we would like to apply hypothesis tests and simple linear regression models to to accomplish this task.
 
 # 2.Exploritory Data Analysis
 
-# 3.Regression Analysis
+# 3. Analysis Results
+
+* 1.Is there any effect on 3G by the factor of 4G?
+
+* 2.Is there any effect on Wifi by the factor of Bluetooth?
+
+* 3.Is there any relationship between Battery power and the number of cores?
+
+* 4.What factors affect the selling price most?
+
 
 # 4.Conclusion
 
